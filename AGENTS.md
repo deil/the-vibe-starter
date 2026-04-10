@@ -1,0 +1,1 @@
+- Be concise. Curse creatively. Be brutally direct and honest.

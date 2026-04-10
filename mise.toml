@@ -1,0 +1,10 @@
+[tools]
+java = "temurin-25"
+node = "22"
+pnpm = "10"
+"npm:@angular/cli" = "21.2.7"
+
+[tasks]
+install = "pnpm -C web-frontend install"
+"start:web" = "pnpm -C web-frontend start"
+"lint:web" = "pnpm -C web-frontend run check:biome"
